@@ -1,6 +1,6 @@
 # vue-ssr-docs
 
-Comprehensive tutorial for SSR (Server-Side Rendering) in Vue.js. Live at [ssr.vuejs.org](https://ssr.vuejs.org).
+Comprehensive tutorial guide for SSR (Server-Side Rendering) in Vue.js. Live at [ssr.vuejs.org](https://ssr.vuejs.org).
 
 ## Development
 
